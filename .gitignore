@@ -1,0 +1,12 @@
+.*
+!.git*
+!.mailmap
+*.iml
+*/build
+*/out
+*/target
+*~
+/build
+/out
+/target
+hs_err_pid*.log
